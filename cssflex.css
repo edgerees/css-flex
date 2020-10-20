@@ -1,0 +1,16 @@
+.parent{
+    height: 300px;
+    border: 2px solid purple;
+    display: flex;
+}
+.child { background-color: navy;
+padding: 5px;
+color: red;
+font-weight: bold;
+font-size: 12px;
+text-align: center;
+height: 180px;
+width: 100px;
+margin: auto;
+
+/* css walkthrough*/}
